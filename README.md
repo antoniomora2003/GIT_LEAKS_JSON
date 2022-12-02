@@ -1,0 +1,1 @@
+# GIT_LEAKS_JSON
